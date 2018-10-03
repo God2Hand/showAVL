@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1515927345 source:f:\codeblocks\c++\showavl\bbstnode.cpp
+	"BBSTNode.h"
+	<Stdlib.h>
+	<stdio.h>
+
+1515560126 f:\codeblocks\c++\showavl\bbstnode.h
+
+1515825956 source:f:\codeblocks\c++\showavl\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"BBSTNode.h"
+
